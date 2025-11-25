@@ -10,9 +10,9 @@
 > 7. Seekable, The Netherlands
 > 8. TU Wien, Austria
 
-The advantages of well-documented and modularly designed open-source projects really starts to shine when they allow for the combination of different tools to create new possibilities. We have achieved this in the last few years within the electromagnetic (EM) geophysics community.
+The advantages of well-documented and modularly designed open-source projects starts to shine when they allow for the combination of different tools to create new possibilities. We have achieved this in the last few years within the electromagnetic (EM) geophysics community.
 
-PyGIMLi is an open-source library for multi-method modelling and inversion in geophysics. It is particularly strong in electrical resistivity tomography, induced polarization, magnetics, and seismic refraction and traveltime tomography. It is also strong in joint inversions. However, it cannot, as of now, conduct electromagnetic modelling.
+PyGIMLi is an open-source library for multi-method modelling and inversion in geophysics. It is particularly strong in electrical resistivity tomography, induced polarization, magnetics, and seismic refraction and traveltime tomography. It is also strong in joint inversions.
 
 SimPEG is an open-source Python package for simulation and gradient-based parameter estimation in geophysical applications. It provides strong capabilities, particularly for modelling gravity, magnetics, direct current resistivity, induced polarization, and frequency- and time-domain electromagnetic data. Additionally, it provides a joint inversion capability. However, the analytical 1D forward modelling is, currently, limited to loop-loop configurations. Furthermore, for 3D EM modeling, it uses a direct solver with a large memory requirement.
 
